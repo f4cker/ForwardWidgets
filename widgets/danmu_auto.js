@@ -46,6 +46,10 @@ WidgetMetadata = {
           title: "56uxi",
           value: "https://danmu.56uxi.com",
         },
+        {
+          title: "f4cker",
+          value: "https://danmu.layoute.xyz",
+        },
       ],
     },
     {
@@ -498,6 +502,7 @@ async function getDanmuFromUrl(danmu_server, playUrl, debug, danmu_server_pollin
         "https://api.danmu.icu",
         "https://se.678.ooo",
         "https://danmu.56uxi.com",
+        "https://danmu.layoute.xyz",
     ];
 
     // 统一的请求函数
