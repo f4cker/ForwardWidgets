@@ -48,7 +48,7 @@ WidgetMetadata = {
         },
         {
           title: "f4cker",
-          value: "https://danmu.layoute.xyz",
+          value: "https://danmu.layoute.xyz/api/LLX6yC8D05bP8HAujWQS",
         },
       ],
     },
